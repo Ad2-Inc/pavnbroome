@@ -2,15 +2,17 @@ import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import Layout from '../@gatsbystorefront/gatsby-theme-storefront-shopify/components/Layout'
-// import SlideShow from "../components/slideshow"
+
+// import Image from '../components/Image'
 
 export default ({ data }) => (
     <Layout>
 
 {/* <SlideShow /> */}
-
-Boom<br /><br />
-<Img filename="pb-logo-color.png" />
+{/* <br /><br />
+<br /><br />
+Boom
+<Image filename="pb-logo-color.png" /> */}
 
 
   <div

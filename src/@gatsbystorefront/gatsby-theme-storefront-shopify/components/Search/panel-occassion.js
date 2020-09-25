@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Image from '../Image'
+// import Image from '../Image'
 // import logo from '../../../../images/pb-logo-color.png'
 import styled from "styled-components"
 const CustomBox = styled.div`
