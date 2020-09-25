@@ -10,7 +10,6 @@ exports.components = {
   "component---node-modules-gatsbystorefront-gatsby-theme-storefront-shopify-src-templates-page-index-jsx": () => import("./../../node_modules/@gatsbystorefront/gatsby-theme-storefront-shopify/src/templates/page/index.jsx" /* webpackChunkName: "component---node-modules-gatsbystorefront-gatsby-theme-storefront-shopify-src-templates-page-index-jsx" */),
   "component---node-modules-gatsbystorefront-gatsby-theme-storefront-shopify-src-templates-product-index-jsx": () => import("./../../node_modules/@gatsbystorefront/gatsby-theme-storefront-shopify/src/templates/product/index.jsx" /* webpackChunkName: "component---node-modules-gatsbystorefront-gatsby-theme-storefront-shopify-src-templates-product-index-jsx" */),
   "component---src-pages-parade-js": () => import("./../../src/pages/parade.js" /* webpackChunkName: "component---src-pages-parade-js" */),
-  "component---src-pages-privacy-js": () => import("./../../src/pages/privacy.js" /* webpackChunkName: "component---src-pages-privacy-js" */),
-  "component---src-pages-simong-js": () => import("./../../src/pages/simong.js" /* webpackChunkName: "component---src-pages-simong-js" */)
+  "component---src-pages-privacy-js": () => import("./../../src/pages/privacy.js" /* webpackChunkName: "component---src-pages-privacy-js" */)
 }
 

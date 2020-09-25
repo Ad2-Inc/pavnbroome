@@ -5,14 +5,14 @@ module.exports = {
   plugins: [
     `gatsby-plugin-styled-components`,
 // Simon G API Importer
-    {
-      resolve: `gatsby-source-plugin-simong`,
-      options: {
-        spaceId: "123",
-        preview: true,
-        cacheResponse: false,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-plugin-simong`,
+    //   options: {
+    //     spaceId: "123",
+    //     preview: true,
+    //     cacheResponse: false,
+    //   },
+    // },
 // Simon G API Importer
     {
       resolve: '@gatsbystorefront/gatsby-theme-storefront-shopify',

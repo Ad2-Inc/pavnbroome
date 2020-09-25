@@ -13,7 +13,6 @@ exports.components = {
   "component---node-modules-gatsbystorefront-gatsby-theme-storefront-shopify-src-templates-page-index-jsx": hot(preferDefault(require("/Users/toddlambert/Sites/GitHub/pavnbroome/node_modules/@gatsbystorefront/gatsby-theme-storefront-shopify/src/templates/page/index.jsx"))),
   "component---node-modules-gatsbystorefront-gatsby-theme-storefront-shopify-src-templates-product-index-jsx": hot(preferDefault(require("/Users/toddlambert/Sites/GitHub/pavnbroome/node_modules/@gatsbystorefront/gatsby-theme-storefront-shopify/src/templates/product/index.jsx"))),
   "component---src-pages-parade-js": hot(preferDefault(require("/Users/toddlambert/Sites/GitHub/pavnbroome/src/pages/parade.js"))),
-  "component---src-pages-privacy-js": hot(preferDefault(require("/Users/toddlambert/Sites/GitHub/pavnbroome/src/pages/privacy.js"))),
-  "component---src-pages-simong-js": hot(preferDefault(require("/Users/toddlambert/Sites/GitHub/pavnbroome/src/pages/simong.js")))
+  "component---src-pages-privacy-js": hot(preferDefault(require("/Users/toddlambert/Sites/GitHub/pavnbroome/src/pages/privacy.js")))
 }
 
